@@ -1,2 +1,3 @@
-# Jenduv_a_Pajuv_nejlepsi_PROJEKT
+# Jenduv a Pajuv nejlepsi PROJEKT
+
 TOTO JE REPOSITORY PRO PÁJŮV A JENDŮV NEJLEPŠÍ PROJEKT POD SLUNCEM
